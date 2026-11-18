@@ -27,6 +27,9 @@ The working principle of a smart speaker involves the following steps:
 6. **Response Generation:** The voice assistant generates a suitable response.
 7. **Voice Output:** Text-to-Speech technology converts the response into audio, which is played through the speaker.
 
+<img width="402" height="266" alt="image" src="https://github.com/user-attachments/assets/20c58c4c-2886-473a-a994-5ad38cc0d2eb" />
+
+
 ### Working Flowchart
 
 ```mermaid
